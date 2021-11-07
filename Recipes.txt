@@ -6,4 +6,9 @@ Welcome to my Kitchen
 Pasta
 Chicken
 
+
+beans
+Pizza
+
+
 Thank you!
